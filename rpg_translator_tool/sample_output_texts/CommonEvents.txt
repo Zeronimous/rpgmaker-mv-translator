@@ -1,0 +1,4 @@
+CommonEvents_event1_list0_param0:Common text 1.
+CommonEvents_event1_list1_param0_choice0:Opt1
+CommonEvents_event1_list1_param0_choice1:Opt2
+CommonEvents_event2_list0_param1:Common Answer.

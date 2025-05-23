@@ -1,0 +1,5 @@
+Map001_event1_page0_list0_param0:Hola Mundo!
+Map001_event1_page0_list1_param0_choice0:OpcionA
+Map001_event1_page0_list1_param0_choice1:OpcionB_Traducida
+Map001_event1_page0_list2_param0:Otra linea.
+Map001_event2_page0_list0_param1:Respuesta a la eleccion.

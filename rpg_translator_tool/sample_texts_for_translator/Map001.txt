@@ -1,0 +1,5 @@
+Map001_event1_page0_list0_param0:Hello world!
+Map001_event1_page0_list1_param0_choice0:ChoiceA
+Map001_event1_page0_list1_param0_choice1:
+Map001_event1_page0_list2_param0:Another line.
+CommonEvents_event1_list0_param0:common text 1.

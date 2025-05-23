@@ -1,0 +1,23 @@
+[
+    null,
+    {
+        "id": 1,
+        "list": [
+            {"code": 401, "parameters": ["Common text 1."]},
+            {"code": 102, "parameters": [["Opt1", "Opt2"],0,0,0,0]},
+            {"code": 401, "parameters": [""]}
+        ],
+        "name": "Common Event 1",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 2,
+        "list": [
+             {"code": 402, "parameters": [1,"Common Answer."]}
+        ],
+        "name": "Common Event 2",
+        "switchId": 1,
+        "trigger": 0
+    }
+]

@@ -1,0 +1,58 @@
+{
+    "events": [
+        null,
+        {
+            "id": 1,
+            "name": "EV001",
+            "pages": [
+                {
+                    "list": [
+                        {
+                            "code": 401,
+                            "parameters": [
+                                "Hola Mundo!"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "parameters": [
+                                [
+                                    "OpcionA",
+                                    "OpcionB_Traducida",
+                                    ""
+                                ],
+                                1,
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "parameters": [
+                                "Otra linea."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "EV002",
+            "pages": [
+                {
+                    "list": [
+                        {
+                            "code": 402,
+                            "parameters": [
+                                0,
+                                "Respuesta a la eleccion."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
