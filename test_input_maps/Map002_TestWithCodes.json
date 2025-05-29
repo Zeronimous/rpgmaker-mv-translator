@@ -1,0 +1,17 @@
+{
+    "events": [
+        {
+            "id": 1, "name": "EventWithCodes", "pages": [
+                {"list": [
+                    {"code": 401, "parameters": ["This is \\C[1]red\\C[0] text that is quite long and should wrap, ignoring the color codes for length calculation."]},
+                    {"code": 401, "parameters": ["Player \\N[1] has \\V[5] gold. This line also needs wrapping eventually. \\.\\.\\."]},
+                    {"code": 102, "parameters": [
+                        ["Choice one is very long and has \\C[2]blue\\C[0] text that needs wrapping.", "Short choice two", "A third choice \\V[10] that might also wrap depending on its content." ], 0, 0, 2, 0
+                    ]},
+                    {"code": 401, "parameters": ["This is some text after the choice."]},
+                    {"code": 402, "parameters": [0, "This is the text for when choice one (long with blue) is selected and it too needs wrapping."]}
+                ]}
+            ]
+        }
+    ]
+}

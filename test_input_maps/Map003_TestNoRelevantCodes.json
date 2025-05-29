@@ -1,0 +1,13 @@
+{
+    "events": [
+        {
+            "id": 1, "name": "EventNoWrap", "pages": [
+                {"list": [
+                    {"code": 201, "parameters": ["Something else"]},
+                    {"code": 401, "parameters": ["Short text."]},
+                    {"code": 101, "parameters": ["PlayerFace.png", 0, 0, 2]}
+                ]}
+            ]
+        }
+    ]
+}
