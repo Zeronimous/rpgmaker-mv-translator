@@ -1,0 +1,51 @@
+[
+    null,
+    {
+        "id": 1,
+        "name": "Potion",
+        "description": "A simple potion that restores a small amount of\nHP.",
+        "price": 50
+    },
+    {
+        "id": 2,
+        "name": "Super Potion",
+        "description": "This is exactly fifty characters long\ndescription!!",
+        "price": 200
+    },
+    {
+        "id": 3,
+        "name": "Mega Potion",
+        "description": "A powerful potion that restores a significant\namount of health to the target user, very useful\nin battles.",
+        "price": 500
+    },
+    {
+        "id": 4,
+        "name": "Elixir",
+        "description": "The ultimate healing item. This legendary elixir\nis said to fully restore both health and magic\npoints of a single party member. It is extremely\nrare.",
+        "price": 9999
+    },
+    {
+        "id": 5,
+        "name": "Antidote",
+        "description": "Cures poison. A very very very very very very very\nvery very very very very very very very very very\nvery very very longwordthatwillbeforcebroken.",
+        "price": 30
+    },
+    {
+        "id": 6,
+        "name": "Phoenix Down",
+        "description": "A mystical feather that revives a fallen ally from\nincapacitation with a little bit of HP.",
+        "price": 300
+    },
+    {
+        "id": 7,
+        "name": "EmptyDesc",
+        "description": "",
+        "price": 10
+    },
+    {
+        "id": 8,
+        "name": "PreFormatted",
+        "description": "This description already has a\nnewline character. Let's see how it is handled by\nthe script.",
+        "price": 100
+    }
+]

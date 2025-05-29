@@ -1,0 +1,25 @@
+{
+    "category": "Consumables",
+    "items": [
+        {
+            "id": 101,
+            "name": "Nested Potion",
+            "details": {
+                "description": "This is a short description for a nested item, it should not wrap.",
+                "rarity": "common"
+            }
+        },
+        {
+            "id": 102,
+            "name": "Nested Elixir",
+            "details": {
+                "description": "A very special nested elixir that provides many benefits to the user and is found only in hidden locations across the vast game world.",
+                "rarity": "legendary"
+            }
+        }
+    ],
+    "metadata": {
+        "source_file": "nested_data_source.dat",
+        "description": "This top-level description for metadata should also be processed if it is long enough to require wrapping."
+    }
+}
